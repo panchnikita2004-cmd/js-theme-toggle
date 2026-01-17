@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.purple{
+    background-color: purple;
+    color: rgb(164, 83, 241);
+}
